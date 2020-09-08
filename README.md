@@ -4,11 +4,13 @@ In this repo, you are going to use the advanced Watson Assistant features to bui
 
 !["watson-chatbat-advanced"](docs/images/advanced_chatbot01.png)
 
-Instead of typing message when having a conservation with the chatbot, you build an app-like chatbot without the need to build an app. Buttons, dropdown list and etc are used to minimize end users's typing. When buttons are clicked or the option is chosen from the dropdown list, per-configurerd text is entered on the end users' behalf.
+Instead of a text-based chatbot, you build an app-like chatbot without the need to build an app. Buttons, dropdown list and etc are used to minimize end users's typing. When buttons are clicked or the option is chosen from the dropdown list, per-configurerd text is entered on the end users' behalf.
 
 Watson Natural Language Understanding(NLU) and Watson Natural Language Processing(NLP) capabilities embeded in Watson Assistant service help you effectively understand what your customer want to order, such as type of burgers, size of drinks, dine-in or to-go, and so on.
 
 You can have a dressed-up chatbot up and running in no time. When you access the chatbot on a mobile device, the built-in voice input also supports verbal data entry which can greatly enhance the user experience.
+
+!["Architecture"](docs/images/architecture.png)
 
 After you complete the exercise, you will understand how to:
 
@@ -27,8 +29,6 @@ This repo is part of Watson chatbot serial. The entire serial includes
 > **NOTE**: Watson Assistant service is available in IBM Cloud as well as part of IBM Cloud pak for Data. As the result, you can deploy and run your chatbot in public cloud, private cloud, hybird cloud and on-prem.
 
 > Click [here](https://www.ibm.com/products/cloud-pak-for-data) for more information about IBM Cloud Pak for Data.
-
-!["Architecture"](docs/images/architecture.png)
 
 
 ## Use Case Flow
